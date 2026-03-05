@@ -114,7 +114,7 @@ Demonstrates how floating-point summation order can affect numerical accuracy an
 Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/Sulyenman/Pendulum_Simulation
 ```
 
 Navigate to the project directory:
