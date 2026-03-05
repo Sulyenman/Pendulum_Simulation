@@ -120,7 +120,7 @@ git clone https://github.com/Sulyenman/Pendulum_Simulation
 Navigate to the project directory:
 
 ```
-cd pendulum-toolbox
+cd Pendulum_Simulation
 ```
 
 Install dependencies:
